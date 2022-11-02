@@ -1,4 +1,15 @@
-body{
-    height: 50px;
+.wave{
+    top: 0%;
+    position: absolute;
     width: 100%;
+    
+}
+h2{
+    text-align: left;
+}
+h3{
+   text-align: right;
+}
+.p1{
+    text-align: center;
 }
